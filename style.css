@@ -1,0 +1,9 @@
+body{width: 400px;
+    height: 300px;
+    background-image: url(plano_fundo.png);}
+h1{font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+color: lawngreen;}
+h2{font-family: cursive;
+text-align: center;
+color: limegreen;}
