@@ -2,17 +2,23 @@ body{background-color: rgb(141, 199, 253); }
 readme {width: 400px;
     height: 300px;
     background-image: url(plano_fundo.png);}
+
 h1{font-family: Verdana, Geneva, Tahoma, sans-serif;
 text-align: center;
-color: rgb(0, 252, 63);
+color: rgb(0,0,128);
 font-size: 30px}
+
 h2{font-family: cursive;
 text-align: center;
-color: rgb(0, 252, 63);
+color: rgb(0,0,128);
 font-size: 50px}
+
 h6{font-size: 35px;
-color: rgb(0, 252, 63);
+color: rgb(0,0,128);
 text-align: center;}
+
+img {width: "50"; height: "50";}
+
 p{font-size: 25px;
 font-family: helvetica; 7
 text-align: justify;}
