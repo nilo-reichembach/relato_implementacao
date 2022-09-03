@@ -17,8 +17,39 @@ h6{font-size: 35px;
 color: rgb(0,0,128);
 text-align: center;}
 
-img {width: "50"; height: "50";}
-
 p{font-size: 25px;
 font-family: helvetica; 7
 text-align: justify;}
+
+ul#menu li a:link, ul#menu li a:visited {
+display:block;
+height:1%;
+}
+
+ul#menu li{
+display: inline;
+float: left;
+padding:0px;
+margin: 0;
+width: 250px;
+border-left: #666666 thin solid;
+}
+
+ul#menu a{
+display: block;
+text-decoration: none;
+padding: 6px;
+background-color: #CCCCCC;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-weight: bold;
+}
+
+ul#menu :hover{
+background-color: #EEEEEE;
+text-decoration: none;
+color: #FFFFFF;
+}
+
+ul#menu li.btnesquerdo{
+border: none;}
